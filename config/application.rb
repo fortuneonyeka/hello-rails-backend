@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+
 
 # Your comment
 require_relative 'boot'
