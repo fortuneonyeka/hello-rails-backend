@@ -1,5 +1,3 @@
-
-
 # Your comment
 require_relative 'boot'
 
