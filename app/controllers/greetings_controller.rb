@@ -1,4 +1,3 @@
-
 # Your comment
 class GreetingsController < ApplicationController
   def index
